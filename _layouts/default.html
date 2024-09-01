@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  <голова>
+    <мета-кодировка='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | относительный_url }}">
+
+{% сео %}
+    {% включить head-custom.html %}
+  </head>
+
+  <тело>
+
+    <!-- ЗАГОЛОВОК -->
+    <div id="header_wrap" class="outer">
+        <header class="внутренний">
+          {% если site.github.is_страница_проекта %}
+            <a id="forkme_banner" href="{{ site.github.repository_url }}">Просмотреть на GitHub</a>
+          {% конец %}
+
+          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+          <h2 id="тег_проекта">{{ описание_сайта | по умолчанию: тег_проекта_сайта.github }}</h2>
+
+          {% если site.show_downloads %}
+            <section id="загрузки">
+              <a class="zip_download_link" href="{{ site.github.zip_url }}">Загрузить этот проект как файл .zip</a>
+              <a class="tar_download_link" href="{{ site.github.tar_url }}">Загрузить этот проект как файл tar.gz</a>
+            </раздел>
+          {% конец %}
+        </заголовок>
+    </div>
+
+    <!-- ОСНОВНОЕ СОДЕРЖАНИЕ -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        {{ содержание }}
+      </раздел>
+    </div>
+
+    <!-- НИЖНИЙ КОЛОН -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        {% если site.github.is_страница_проекта %}
+        <p class="copyright">{{ site.title | default: site.github.repository_name }} поддерживается <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% конец %}
+        <p>Опубликовано с помощью <a href="https://pages.github.com">GitHub Pages</a></p>
+      </футер>
+    </div>
+  </тело>
+</html>
