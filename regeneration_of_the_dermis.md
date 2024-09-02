@@ -1,9 +1,12 @@
 ---
 layout: default
 ---
+
 [<< Протоколы процедур](./)
 
-<iframe width="100%" height="360px" frameborder="0" src="https://mega.nz/embed/1OdjnaqQ#bnXBUqniBHP6aNSw1xYYsOxBF1I7OXqzFPLd6OCfxTI" allowfullscreen ></iframe>
+<div style="width: 100%; height: 0; padding-bottom: 56.25%; position: relative;">
+<iframe width="100%" height="100%" frameborder="0" src="https://mega.nz/embed/1OdjnaqQ#bnXBUqniBHP6aNSw1xYYsOxBF1I7OXqzFPLd6OCfxTI" allowfullscreen ></iframe>
+</div>
 
 _**ПОКАЗАНИЯ:**_ Профилактика старения кожи, видимые признаки старения дермы, улучшение качества кожи.
 
