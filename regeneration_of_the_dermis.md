@@ -4,6 +4,8 @@ layout: default
 [<< Протоколы процедур](./)
 <iframe width="800" height="600" src="https://www.youtube.com/embed/D3-Lz60lY3w" title="Протокол по полной  регенерации дермы" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+<iframe width="800" height="600" src="https://disk.yandex.ru/i/8LrIuSUTxFo7_w" title="Протокол по полной  регенерации дермы" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 _**ПОКАЗАНИЯ:**_ Профилактика старения кожи, видимые признаки старения дермы, улучшение качества кожи.
 
 _**ЭТАП № 1**_
