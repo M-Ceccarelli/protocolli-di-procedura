@@ -4,7 +4,7 @@ layout: default
 
 [<< Протоколы процедур](./)
 
-<div style="width: 100%; height: 0; padding-bottom: 56.25%; position: relative;">
+<div style="width: 100%; height: 360px;  position: relative;">
 <iframe width="100%" height="100%" frameborder="0" src="https://mega.nz/embed/1OdjnaqQ#bnXBUqniBHP6aNSw1xYYsOxBF1I7OXqzFPLd6OCfxTI" allowfullscreen ></iframe>
 </div>
 
