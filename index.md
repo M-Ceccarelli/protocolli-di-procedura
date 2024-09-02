@@ -1,4 +1,4 @@
-- [Регенерация дермы](https://github.com/M-Ceccarelli/protocolli-di-procedura/blob/main/regeneration_of_the_dermis.md)
+- [Регенерация дермы](https://github.com/M-Ceccarelli/protocolli-di-procedura/blob/main/regeneration_of_the_dermis.html)
 - [[Лифтинг без скальпеля]]
 - [[Пигментные пятна]]
 - 
