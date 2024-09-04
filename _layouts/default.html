@@ -41,20 +41,20 @@
     <div id="footer_wrap" class="outer">
       <footer class="inner">
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-    // Скрытие элементов с классом .viewer-top-bl
-    var viewerTopBlElements = document.querySelectorAll('.viewer-top-bl');
-    viewerTopBlElements.forEach(function(element) {
-        element.style.display = 'none';
-    });
+<script>
+document.getElementsByTagName('iframe')[0].addEventListener('load', function() {
+    var iframeDocument = this.contentDocument || this.contentWindow.document;
 
-    // Показ элементов с классом .video-controls
-    var videoControlsElements = document.querySelectorAll('.video-controls');
-    videoControlsElements.forEach(function(element) {
-        element.style.display = 'block';
-    });
+    // Ваш код для изменения стилей внутри iframe
+    var style = iframeDocument.createElement('style');
+    style.innerHTML = `
+        .viewer-top-bl { display: none !important; }
+        .video-controls { display: block !important; }
+    `;
+    iframeDocument.head.appendChild(style);
 });
 
+</script>
 </script>
       </footer>
     </div>
