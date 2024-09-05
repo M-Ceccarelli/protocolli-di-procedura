@@ -2,7 +2,11 @@
 layout: default
 ---
 
-- [Регенерация дермы](./regeneration_of_the_dermis.html)
-- [[Лифтинг без скальпеля]]
-- [[Пигментные пятна]]
-  
+<div class="list-group  list-group-flush">
+  <a href="./regeneration_of_the_dermis.html" class="list-group-item list-group-item-action" aria-current="true">
+   Регенерация дермы
+  </a>
+  <a href="#" class="list-group-item list-group-item-action">Лифтинг без скальпеля</a>
+  <a href="#" class="list-group-item list-group-item-action">Пигментные пятна</a>
+</div>
+
