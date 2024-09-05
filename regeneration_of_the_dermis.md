@@ -10,7 +10,7 @@ layout: default
 </nav>
 
 
-<iframe width="100%" height="100%" frameborder="0" src="https://mega.nz/embed/1OdjnaqQ#bnXBUqniBHP6aNSw1xYYsOxBF1I7OXqzFPLd6OCfxTI" allowfullscreen ></iframe>
+<iframe width="100%" height="360px" frameborder="0" src="https://mega.nz/embed/1OdjnaqQ#bnXBUqniBHP6aNSw1xYYsOxBF1I7OXqzFPLd6OCfxTI" allowfullscreen ></iframe>
 
 _**ПОКАЗАНИЯ:**_ Профилактика старения кожи, видимые признаки старения дермы, улучшение качества кожи.
 
