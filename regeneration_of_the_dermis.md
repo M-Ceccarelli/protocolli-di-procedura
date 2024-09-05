@@ -2,7 +2,13 @@
 layout: default
 ---
 
-[<< Протоколы процедур](./)
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="./">Протоколы процедур</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Регенерация дермы</li>
+  </ol>
+</nav>
+
 
 <iframe width="100%" height="100%" frameborder="0" src="https://mega.nz/embed/1OdjnaqQ#bnXBUqniBHP6aNSw1xYYsOxBF1I7OXqzFPLd6OCfxTI" allowfullscreen ></iframe>
 
