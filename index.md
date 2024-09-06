@@ -10,6 +10,7 @@ layout: default
   <a href="./pigmented_spots.html" class="list-group-item list-group-item-action">Пигментные пятна</a>
 <a href="./hair_regeneration.html" class="list-group-item list-group-item-action">Регенерация волос</a>
 <a href="./regeneration_of_adipose_tissue.html" class="list-group-item list-group-item-action">Регенерация адипозной ткани</a>
+<a href="./apoptosis_of_adipocytic_tissue.html" class="list-group-item list-group-item-action">Апоптоз адипоцитной ткани</a>
 <a href="./regeneration_of_muscle_tissue.html" class="list-group-item list-group-item-action">Регенерация мышечной ткани</a>
 <a href="./bone_regeneration.html" class="list-group-item list-group-item-action">Регенерация костной ткани</a>
 
