@@ -9,9 +9,9 @@ layout: default
   </ol>
 </nav>
 <div class="list-group">
-  <a href="https://disk.yandex.ru/i/qOD6DqMJ-b2ifw" class="list-group-item list-group-item-action" aria-current="true">👀 Протокол по регенерации адипозной ткани 🎦</a>
-    <a href="https://disk.yandex.ru/i/sq0NpcocRlx8Pw" class="list-group-item list-group-item-action" aria-current="true">👀 Работа с локальными жировыми отложениями 🎦</a>
-      <a href="https://disk.yandex.ru/i/0wMIZuVeJoVALg" class="list-group-item list-group-item-action" aria-current="true">👀 Видео проведения процедуры 🎦</a>
+  <a href="https://disk.yandex.ru/i/qOD6DqMJ-b2ifw" class="list-group-item list-group-item-action" aria-current="true"><i class="bi bi-film"></i> Протокол по регенерации адипозной ткани</a>
+    <a href="https://disk.yandex.ru/i/sq0NpcocRlx8Pw" class="list-group-item list-group-item-action" aria-current="true"><i class="bi bi-film"></i> Работа с локальными жировыми отложениями</a>
+      <a href="https://disk.yandex.ru/i/0wMIZuVeJoVALg" class="list-group-item list-group-item-action" aria-current="true"><i class="bi bi-film"></i> Видео проведения процедуры</a>
 </div>
 
 **_ПОКАЗАНИЯ:_**
