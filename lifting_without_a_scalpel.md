@@ -8,6 +8,9 @@ layout: default
     <li class="breadcrumb-item active" aria-current="page">Лифтинг без скальпеля</li>
   </ol>
 </nav>
+<div class="list-group">
+  <a href="https://disk.yandex.ru/i/2SjqhPFE-P62wA" class="list-group-item list-group-item-action" aria-current="true">👀 Skin Firming - реструктуризация дермы 🎦</a>
+</div>
 
 **_ПОКАЗАНИЯ:_**
 

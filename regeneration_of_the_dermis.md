@@ -10,7 +10,7 @@ layout: default
 </nav>
 
 <div class="list-group">
-  <a href="https://disk.yandex.ru/i/NPxYOjEgC5dLxg" class="list-group-item list-group-item-action" aria-current="true">👀🎦 ПОЛНАЯ РЕГЕНЕРАЦИЯ ДЕРМЫ</a>
+  <a href="https://disk.yandex.ru/i/NPxYOjEgC5dLxg" class="list-group-item list-group-item-action" aria-current="true">👀 ПОЛНАЯ РЕГЕНЕРАЦИЯ ДЕРМЫ 🎦</a>
 </div>
 
 _**ПОКАЗАНИЯ:**_ Профилактика старения кожи, видимые признаки старения дермы, улучшение качества кожи.

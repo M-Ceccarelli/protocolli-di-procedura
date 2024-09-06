@@ -8,6 +8,11 @@ layout: default
     <li class="breadcrumb-item active" aria-current="page">Регенерация мышечной ткани</li>
   </ol>
 </nav>
+<div class="list-group">
+  <a href="https://disk.yandex.ru/i/Fml3tbhBtnUGUQ" class="list-group-item list-group-item-action" aria-current="true">👀 Muscle Toning - регенерация мышц 🎦</a>
+    <a href="https://disk.yandex.ru/i/lyesnI553AtP-A" class="list-group-item list-group-item-action" aria-current="true">👀 Оптимизация мышечной ткани 🎦</a>
+      <a href="https://disk.yandex.ru/i/64uKl57_UqH1Rw" class="list-group-item list-group-item-action" aria-current="true">👀 Регенерация мышечной ткани 🎦</a>
+</div>
 
 **ПОКАЗАНИЯ:**
 Утеря объёмов мышц лица и тела, птоз мягких тканей.
