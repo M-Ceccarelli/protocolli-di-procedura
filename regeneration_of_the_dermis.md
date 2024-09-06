@@ -9,8 +9,7 @@ layout: default
   </ol>
 </nav>
 
-
-<iframe width="100%" height="360px" frameborder="0" src="https://mega.nz/embed/1OdjnaqQ#bnXBUqniBHP6aNSw1xYYsOxBF1I7OXqzFPLd6OCfxTI" allowfullscreen ></iframe>
+[👀🎦 **ПОЛНАЯ РЕГЕНЕРАЦИЯ ДЕРМЫ:**](https://mega.nz/file/tKNiGSpA#dojUIL5b_3NAT3TJacQ9Ujzc4ED6ylt3NXiCsnLDUh0)
 
 _**ПОКАЗАНИЯ:**_ Профилактика старения кожи, видимые признаки старения дермы, улучшение качества кожи.
 
