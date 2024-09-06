@@ -8,6 +8,12 @@ layout: default
     <li class="breadcrumb-item active" aria-current="page">Регенерация костной ткани</li>
   </ol>
 </nav>
+<div class="list-group">
+  <a href="https://disk.yandex.ru/i/KgIwVTo4n_JHjw" class="list-group-item list-group-item-action" aria-current="true">👀 Протокол регенерации костной ткани 🎦</a>
+    <a href="https://disk.yandex.ru/i/AcHVn8sEHPQwQQ" class="list-group-item list-group-item-action" aria-current="true">👀 Регенерация костной ткани 🎦</a>
+      <a href="https://disk.yandex.ru/i/7jSyPPxM5lxK-w" class="list-group-item list-group-item-action" aria-current="true">👀 Оптимизация костной ткани 🎦</a>
+</div>
+
 **ПОКАЗАНИЯ:**
 Уплощение костной ткани, в процессе хроностарения.
 

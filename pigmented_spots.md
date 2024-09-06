@@ -1,12 +1,17 @@
 ---
 layout: default
 ---
+
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="./">Протоколы процедур</a></li>
     <li class="breadcrumb-item active" aria-current="page">Пигментные пятна</li>
   </ol>
 </nav>
+<div class="list-group">
+  <a href="https://disk.yandex.ru/i/mYoodpi6LkJDGw" class="list-group-item list-group-item-action" aria-current="true">👀 Протокол по осветлению пигментных пятен 🎦</a>
+
+</div>
 
 **ПОКАЗАНИЯ:** пигментные пятна различного характера и происхождения на лице и теле.
 
