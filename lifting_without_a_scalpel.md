@@ -10,7 +10,6 @@ layout: default
 </nav>
 
 
-<iframe width="100%" height="360px" frameborder="0" src="#" allowfullscreen ></iframe>
 
 
 ***ПОКАЗАНИЯ:*** 
