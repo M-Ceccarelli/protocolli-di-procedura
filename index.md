@@ -7,6 +7,6 @@ layout: default
    Регенерация дермы
   </a>
   <a href="./lifting_without_a_scalpel.html" class="list-group-item list-group-item-action">Лифтинг без скальпеля</a>
-  <a href="#" class="list-group-item list-group-item-action">Пигментные пятна</a>
+  <a href="./pigmented_spots.html" class="list-group-item list-group-item-action">Пигментные пятна</a>
 </div>
 
