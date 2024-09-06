@@ -9,9 +9,9 @@ layout: default
   </ol>
 </nav>
 <div class="list-group">
-  <a href="https://disk.yandex.ru/i/KgIwVTo4n_JHjw" class="list-group-item list-group-item-action" aria-current="true"><i class="bi bi-film"></i> Протокол регенерации костной ткани</a>
-    <a href="https://disk.yandex.ru/i/AcHVn8sEHPQwQQ" class="list-group-item list-group-item-action" aria-current="true"><i class="bi bi-film"></i> Регенерация костной ткани</a>
-      <a href="https://disk.yandex.ru/i/7jSyPPxM5lxK-w" class="list-group-item list-group-item-action" aria-current="true"><i class="bi bi-film"></i> Оптимизация костной ткани</a>
+  <a href="https://disk.yandex.ru/i/KgIwVTo4n_JHjw" class="list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-film"></i> Протокол регенерации костной ткани</a>
+    <a href="https://disk.yandex.ru/i/AcHVn8sEHPQwQQ" class="list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-film"></i> Регенерация костной ткани</a>
+      <a href="https://disk.yandex.ru/i/7jSyPPxM5lxK-w" class="list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-film"></i> Оптимизация костной ткани</a>
 </div>
 
 **ПОКАЗАНИЯ:**

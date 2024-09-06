@@ -9,7 +9,7 @@ layout: default
   </ol>
 </nav>
 <div class="list-group">
-  <a href="https://disk.yandex.ru/i/mYoodpi6LkJDGw" class="list-group-item list-group-item-action" aria-current="true"><i class="bi bi-film"></i> Протокол по осветлению пигментных пятен</a>
+  <a href="https://disk.yandex.ru/i/mYoodpi6LkJDGw" class="list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-film"></i> Протокол по осветлению пигментных пятен</a>
 
 </div>
 

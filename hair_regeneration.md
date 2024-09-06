@@ -10,7 +10,7 @@ layout: default
 </nav>
 
 <div class="list-group">
-  <a href="https://disk.yandex.ru/i/7_Kp6KdUEEvhXQ" class="list-group-item list-group-item-action" aria-current="true"><i class="bi bi-film"></i> Протокол регенерации волосяных фолликул</a>
+  <a href="https://disk.yandex.ru/i/7_Kp6KdUEEvhXQ" class="list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-film"></i> Протокол регенерации волосяных фолликул</a>
 
 </div>
 
