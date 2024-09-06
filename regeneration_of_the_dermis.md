@@ -9,7 +9,7 @@ layout: default
   </ol>
 </nav>
 
-[👀🎦 **ПОЛНАЯ РЕГЕНЕРАЦИЯ ДЕРМЫ:**](https://mega.nz/file/tKNiGSpA#dojUIL5b_3NAT3TJacQ9Ujzc4ED6ylt3NXiCsnLDUh0)
+[👀🎦 **ПОЛНАЯ РЕГЕНЕРАЦИЯ ДЕРМЫ**](https://disk.yandex.ru/i/NPxYOjEgC5dLxg)
 
 _**ПОКАЗАНИЯ:**_ Профилактика старения кожи, видимые признаки старения дермы, улучшение качества кожи.
 
