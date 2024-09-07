@@ -12,6 +12,15 @@ layout: default
   <a href="https://disk.yandex.ru/i/2SjqhPFE-P62wA" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-film"></i> Skin Firming - реструктуризация дермы</a>
 </div>
 
+<!-- Кнопка-триггер модального окна -->
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#video">
+  Открыть окно с видео
+</button>
+
+<div class="modal-dialog modal-dialog-centered" id="video" >
+<iframe src="https://disk.yandex.ru/i/2SjqhPFE-P62wA"></iframe>
+</div>
+
 **_ПОКАЗАНИЯ:_**
 
 Дряблость некоторых участков кожи, птоз дермы, явные признаки старения, глубокие морщины. Проводится у возрастных пациентов или на ограниченных участках лица.
