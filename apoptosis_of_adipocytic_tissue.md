@@ -9,7 +9,7 @@ layout: default
   </ol>
 </nav>
 <div class="list-group">
-  <a href="https://disk.yandex.ru/i/BJyQ2rYcXrA99g" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube"></i> Протокол активации апоптоза адипозных клеток<i class="bi bi-hand-index-thumb" style="text-align:rigth"></i></a>
+  <a href="https://disk.yandex.ru/i/BJyQ2rYcXrA99g" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 Протокол активации апоптоза адипозных клеток</a>
 </div>
 
 **_ПОКАЗАНИЯ:_** Жировые "ловушки" на лице и теле.
