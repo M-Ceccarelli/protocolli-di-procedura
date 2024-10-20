@@ -10,7 +10,7 @@ layout: default
 </nav>
 
 <div class="list-group">
-  <a href="https://disk.yandex.ru/i/7_Kp6KdUEEvhXQ" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-film"></i> Протокол регенерации волосяных фолликул</a>
+  <a href="https://disk.yandex.ru/i/7_Kp6KdUEEvhXQ" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 Протокол регенерации волосяных фолликул</a>
 
 </div>
 
