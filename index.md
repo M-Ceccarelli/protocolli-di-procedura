@@ -14,3 +14,9 @@ layout: default
 <a href="./bone_regeneration.html" class="list-group-item list-group-item-action"><i class="bi bi-journal-text"></i> Регенерация костной ткани</a>
 
 </div>
+
+<div class="list-group  list-group-flush">
+  <a href="./calc.html" class="list-group-item list-group-item-action" aria-current="true"><i class="bi bi-calculator-fill"></i> Калькулятор Fat Apoptosis и Stamin C
+  </a>
+
+</div>
