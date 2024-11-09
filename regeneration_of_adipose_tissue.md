@@ -10,7 +10,6 @@ layout: default
 </nav>
 <div class="list-group">
   <a href="https://disk.yandex.ru/i/qOD6DqMJ-b2ifw" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 Протокол по регенерации адипозной ткани</a>
-      <a href="https://disk.yandex.ru/i/0wMIZuVeJoVALg" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 Видео проведения процедуры</a>
 </div>
 
 **_ПОКАЗАНИЯ:_**
