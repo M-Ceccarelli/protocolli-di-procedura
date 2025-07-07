@@ -15,8 +15,3 @@ layout: default
 
 </div>
 
-<div class="list-group  list-group-flush  mt-3">
-  <a href="./calc.html" class="list-group-item list-group-item-action" aria-current="true"><i class="bi bi-calculator-fill"></i> Калькулятор Fat Apoptosis и Stamin C
-  </a>
-
-</div>
