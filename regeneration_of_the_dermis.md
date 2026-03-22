@@ -10,7 +10,7 @@ layout: default
 </nav>
 
 <div class="list-group">
-  <a href="https://disk.yandex.ru/i/NPxYOjEgC5dLxg" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 ПОЛНАЯ РЕГЕНЕРАЦИЯ ДЕРМЫ</a>
+  <a href="https://lkceccarelli.hb.ru-msk.vkcloud-storage.ru/protocols/regeneration_of_the_dermis.mp4" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 ПОЛНАЯ РЕГЕНЕРАЦИЯ ДЕРМЫ</a>
 </div>
 
 _**ПОКАЗАНИЯ:**_ Профилактика старения кожи, видимые признаки старения дермы, улучшение качества кожи.
