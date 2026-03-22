@@ -9,7 +9,7 @@ layout: default
   </ol>
 </nav>
 <div class="list-group">
-  <a href="https://disk.yandex.ru/i/mYoodpi6LkJDGw" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 Протокол по осветлению пигментных пятен</a>
+  <a href="https://lkceccarelli.hb.ru-msk.vkcloud-storage.ru/protocols/pigmented_spots.mp4" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 Протокол по осветлению пигментных пятен</a>
 
 </div>
 
