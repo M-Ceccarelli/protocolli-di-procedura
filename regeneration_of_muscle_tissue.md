@@ -9,9 +9,9 @@ layout: default
   </ol>
 </nav>
 <div class="list-group">
-  <a href="https://disk.yandex.ru/i/Fml3tbhBtnUGUQ" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 Muscle Toning - регенерация мышц</a>
-    <a href="https://disk.yandex.ru/i/lyesnI553AtP-A" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 Оптимизация мышечной ткани</a>
-      <a href="https://disk.yandex.ru/i/64uKl57_UqH1Rw" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 Регенерация мышечной ткани</a>
+  <a href="https://lkceccarelli.hb.ru-msk.vkcloud-storage.ru/protocols/Muscle_Toning_muscle_regeneration.mp4" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 Muscle Toning - регенерация мышц</a>
+    <a href="https://lkceccarelli.hb.ru-msk.vkcloud-storage.ru/protocols/Optimization_of_muscle_tissue.mp4" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 Оптимизация мышечной ткани</a>
+      <a href="https://lkceccarelli.hb.ru-msk.vkcloud-storage.ru/protocols/muscle_regeneration.mp4" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 Регенерация мышечной ткани</a>
 </div>
 
 **ПОКАЗАНИЯ:**
