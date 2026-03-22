@@ -9,9 +9,9 @@ layout: default
   </ol>
 </nav>
 <div class="list-group">
-  <a href="https://disk.yandex.ru/i/KgIwVTo4n_JHjw" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 Протокол регенерации костной ткани</a>
-    <a href="https://disk.yandex.ru/i/AcHVn8sEHPQwQQ" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 Регенерация костной ткани</a>
-      <a href="https://disk.yandex.ru/i/7jSyPPxM5lxK-w" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 Оптимизация костной ткани</a>
+  <a href="https://lkceccarelli.hb.ru-msk.vkcloud-storage.ru/protocols/protocol_bone_regeneration.mp4" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 Протокол регенерации костной ткани</a>
+    <a href="https://lkceccarelli.hb.ru-msk.vkcloud-storage.ru/protocols/bone_regeneration_1.mp4" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 Регенерация костной ткани</a>
+      <a href="https://lkceccarelli.hb.ru-msk.vkcloud-storage.ru/protocols/bone_optimization.mp4" class="bg-warning text-dark bg-opacity-50 list-group-item list-group-item-action" aria-current="true" target="_blank"><i class="bi bi-youtube" style="color:red"></i><b> СМОТРЕТЬ</b> 👉 Оптимизация костной ткани</a>
 </div>
 
 **ПОКАЗАНИЯ:**
